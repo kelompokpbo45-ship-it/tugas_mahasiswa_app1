@@ -139,8 +139,20 @@ Tampilan halaman modern dan rapi, sesuai tugas mahasiswa.
 dokumentasi projeck
 
 <img width="494" height="590" alt="Screenshot 2026-01-22 052948" src="https://github.com/user-attachments/assets/d32f5587-8040-40b9-ab71-502fe07f6323" />
+
+
+
 <img width="496" height="594" alt="Screenshot 2026-01-22 053009" src="https://github.com/user-attachments/assets/1301e42e-6107-4089-9b99-ca3c46a807ea" />
+
+
+
 <img width="497" height="595" alt="Screenshot 2026-01-22 053129" src="https://github.com/user-attachments/assets/6163cdd4-1029-4aa9-9628-89ae389156a3" />
+
+
+
 <img width="489" height="581" alt="Screenshot 2026-01-22 053024" src="https://github.com/user-attachments/assets/298db10e-dd50-4c62-a7b4-ddde55802723" />
+
+
+
 <img width="493" height="587" alt="Screenshot 2026-01-22 053040" src="https://github.com/user-attachments/assets/686471e8-d03a-4d73-a6b7-576590635d6e" />
 
